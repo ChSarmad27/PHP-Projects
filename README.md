@@ -160,3 +160,8 @@ If you found this helpful:
 * 🤝 Contribute
 
 ---
+SCREENSHOTS SHOWING WORKING USER AND ADMIN PAGES RESPECTIVELY
+![admin page](https://github.com/user-attachments/assets/c4eee847-d3d0-4bc8-bfd4-09520acbc5aa)
+![user page](https://github.com/user-attachments/assets/7d1f4b61-7e7c-41a4-aad0-02e7713db690)
+
+
